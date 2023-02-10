@@ -1,0 +1,15 @@
+.jumbotron {
+    color: white;
+    background-image: url("../img/hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+  }
+
+  
+  @media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
